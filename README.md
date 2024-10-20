@@ -1,4 +1,4 @@
-👋 Hi, I’m @NaveenBabu Bathula
+👋 Hi, I’m @NaveenBabuBathula
 
 ✨ Welcome to my repo on web_development.
 
